@@ -5,7 +5,7 @@ Config = {}
 -- you can also give priority through the API, read the examples/readme.
 Config.Priority = {
     -- High Staff 100--
-    ["steam:110000117ccac15"] = 100,	-- Example Player
+    ["steam:1100001137bf86c"] = 100,	-- Example Player
     ["steam:110000114e35069"] = 99, 	-- Example Player 
 		
     -- Low Staff 90 --	
